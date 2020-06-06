@@ -1,5 +1,13 @@
 .App {
+  width: 95%;
+  margin: auto;
+}
+.header{
   text-align: center;
+  background-color: aqua;
+  color: #282c34;
+  font-size: 22px;
+  padding: 30px;
 }
 
 .App-logo {
